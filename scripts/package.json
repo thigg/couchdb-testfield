@@ -1,0 +1,7 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "nano": "8.1.0"
+  }
+}
